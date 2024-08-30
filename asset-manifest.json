@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Space-website/static/css/main.72ebab75.css",
-    "main.js": "/Space-website/static/js/main.3f087963.js",
+    "main.js": "/Space-website/static/js/main.33e412af.js",
     "static/js/453.18d7cff5.chunk.js": "/Space-website/static/js/453.18d7cff5.chunk.js",
     "static/media/background-home-desktop.jpg": "/Space-website/static/media/background-home-desktop.cdf3864ecbfdf20e8c3b.jpg",
     "static/media/background-destination-desktop.jpg": "/Space-website/static/media/background-destination-desktop.468b922c69bf5499b4bc.jpg",
@@ -16,11 +16,11 @@
     "index.html": "/Space-website/index.html",
     "static/media/logo.svg": "/Space-website/static/media/logo.565f7f2c0534403f11b71994f4311210.svg",
     "main.72ebab75.css.map": "/Space-website/static/css/main.72ebab75.css.map",
-    "main.3f087963.js.map": "/Space-website/static/js/main.3f087963.js.map",
+    "main.33e412af.js.map": "/Space-website/static/js/main.33e412af.js.map",
     "453.18d7cff5.chunk.js.map": "/Space-website/static/js/453.18d7cff5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72ebab75.css",
-    "static/js/main.3f087963.js"
+    "static/js/main.33e412af.js"
   ]
 }

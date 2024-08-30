@@ -1,7 +1,6 @@
 {
   "name": "space-tourism-multi-page-website",
   "version": "0.1.0",
-  "homepage": "https://sksksk2024.github.io/Space-website/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",

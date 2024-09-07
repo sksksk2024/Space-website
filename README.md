@@ -1,4 +1,4 @@
-Just chilling watching a tutorial and learn. I need to comeback to this project some time
+Its complexity and so wealthy of knowledge. I need to comeback to this project some time!
 
 Live url: https://sksksk2024.github.io/Space-website/ !!!
 

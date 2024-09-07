@@ -1,3 +1,5 @@
+Just chilling watching a tutorial and learn. I need to comeback to this project some time
+
 Live url: https://sksksk2024.github.io/Space-website/ !!!
 
 # Frontend Mentor - Space tourism website
